@@ -1,5 +1,3 @@
-# 👋 Hello World, I'm mysteria223!
-
 ### 🚀 Fullstack Developer | Creative Coder
 
 I am a passionate Fullstack Developer with a love for building scalable web applications and automating repetitive tasks. I thrive on solving complex problems and constantly learning new technologies to stay ahead in the fast-paced tech world.
