@@ -26,19 +26,4 @@ I am a passionate Fullstack Developer with a love for building scalable web appl
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-![mysteria223's GitHub stats](https://github-readme-stats.vercel.app/api?username=mysteria223&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mysteria223&layout=compact&theme=radical)
-
----
-
-### 📫 Connect with me
-
-- 📧 Email: [djoelfikri34@gmail.com](mailto:djoelfikri34@gmail.com)
-- 💼 LinkedIn: -
-- 🌐 Portfolio: -
-
----
 *Generated with ❤️ by [(https://github.com/mysteria223)*
