@@ -1,9 +1,11 @@
-# Halo, Saya Djul 👋
-### 🚀 Fullstack Developer | System Optimization Enthusiast
+### Halo, Saya Djul Fikri 👋
+##### 🚀 Fullstack Developer | System Optimization Enthusiast | Aspiring Cybersecurity Analyst
 
-I am a passionate Fullstack Developer and Informatics candidate ('21) with a love for building scalable web applications and automating repetitive tasks. Beyond standard development, I have a strong focus on data analysis and system optimization. I am currently working on complex assessment systems using Multi-Criteria Decision Making (MCDM), specifically applying the MOOSRA algorithm—because I believe that a good compromise is a process of optimization itself.
+Saya adalah seorang mahasiswa Lulusan Informatika (Angkatan '21) dan **Fullstack Developer** yang berfokus pada pembangunan aplikasi web berskala besar, otomatisasi tugas, serta analisis optimasi sistem. 
 
-I thrive on solving complex problems and constantly learning new technologies to stay ahead in the fast-paced tech world.
+Saat ini, saya sedang aktif melakukan **transisi karir (*career switch*) ke bidang Cybersecurity**, dengan fokus utama pada **Application Security (AppSec)**, **Security Automation (SOAR)**, dan **Blue Team Operations**. 
+
+Saya percaya bahwa keamanan siber dan pengembangan perangkat lunak adalah dua hal yang tidak bisa dipisahkan. Berbekal pengalaman optimasi sistem menggunakan algoritma pengambilan keputusan (*Multi-Criteria Decision Making*) seperti **MOOSRA**, saya membawa kemampuan analitis yang kuat untuk mendeteksi anomali, merancang pertahanan siber yang aman, dan mengotomatiskan alur kerja keamanan menggunakan Python.
 
 ---
 
@@ -30,9 +32,21 @@ I thrive on solving complex problems and constantly learning new technologies to
 
 ---
 
-### 📫 Let's Connect
-*   **Portfolio:** [djul-dev.vercel.app](https://djul-dev.vercel.app/)
-*   **LinkedIn:** [Djul Fikri Ferdiansyah](https://www.linkedin.com/in/djul-fikri-ferdiansyah-ba1a82368)
+#### Cybersecurity & Automation
+**Defensive Security:** Analisis Log Keamanan (SIEM/SOC), Deteksi Ancaman (*Threat Detection*), Pemodelan Ancaman (*Threat Modeling*), Regulasi Keamanan Informasi.
+**Automation & Scripting:** Python (modul `socket`, `re`/Regex, `hashlib`, `pandas` untuk analisis log).
+**Tools & Platform:** Git/GitHub, Linux Environment.
+---
+
+
+### Target & Sertifikasi Saat Ini
+* Aktif mengasah keterampilan praktis pertahanan dan analisis keamanan siber di **TryHackMe**, **HackToBox**, **Portswagger**, **Owasp 10**.
+* Sedang mempersiapkan sertifikasi industri entri seperti **CompTIA Security+** dan **eJPT** untuk memvalidasi kemampuan analisis keamanan siber saya secara profesional.
 
 ---
-*Coding & caffeine until degree.* ☕
+
+### 📫 Mari Terhubung!
+**Portofolio:** [djul-dev.vercel.app](https://djul-dev.vercel.app/)
+**LinkedIn:** [Djul Fikri Ferdiansyah](https://www.linkedin.com/in/djul-fikri-ferdiansyah-ba1a82368)
+
+*Coding, caffeine, and securing systems until degree.* ☕
