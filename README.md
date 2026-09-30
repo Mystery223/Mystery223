@@ -12,7 +12,7 @@ Saya percaya bahwa keamanan siber dan rekayasa perangkat lunak adalah dua hal ya
 ### 🛡️ Certifications & Badges
 [![Cisco Introduction to Cybersecurity](https://images.credly.com/size/110x110/assets/f4a08bc7-51a8-42f3-85e8-5b48cf7559e7/image.png)](https://www.credly.com/users/djul-fikri-ferdiansyah)
 
-https://www.credly.com/badges/15524f31-6092-4a64-9321-ae6808a6d358/public_url
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="15524f31-6092-4a64-9321-ae6808a6d358" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
