@@ -11,7 +11,6 @@ Saya percaya bahwa keamanan siber dan rekayasa perangkat lunak adalah dua hal ya
 
 ### 🛡️ Certifications & Badges
 [![Cisco Introduction to Cybersecurity](https://images.credly.com/size/110x110/assets/f4a08bc7-51a8-42f3-85e8-5b48cf7559e7/image.png)](https://www.credly.com/users/djul-fikri-ferdiansyah)
-(https://www.credly.com/users/djul-fikri-ferdiansyah/badges/credly)
 
 ---
 
@@ -44,7 +43,7 @@ Saya percaya bahwa keamanan siber dan rekayasa perangkat lunak adalah dua hal ya
 ---
 
 ### 📬 Mari Terhubung!
-[![Portfolio](https://img.shields.io/badge/Portfolio-djul--dev.vercel.app-blueviolet?style=flat-square)](https://djul-dev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-djul--dev.vercel.app-blueviolet?style=flat-square)](https://djulfikri.my.id/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Djul_Fikri_Ferdiansyah-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/djul-fikri-ferdiansyah-ba1a82368)
 
 *Building software, breaking vulnerabilities, and securing systems.* ☕
